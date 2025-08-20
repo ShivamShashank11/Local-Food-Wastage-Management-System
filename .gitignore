@@ -1,0 +1,5 @@
+local_food.db
+__pycache__/
+.env
+*.pyc
+.streamlit/
