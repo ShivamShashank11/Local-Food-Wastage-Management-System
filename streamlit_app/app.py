@@ -78,4 +78,4 @@ st.subheader("Insights")
 show_all_queries(params)
 
 st.markdown("---")
-st.caption("© Local Food Wastage Management • Streamlit + SQLite")
+

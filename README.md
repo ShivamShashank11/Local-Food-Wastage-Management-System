@@ -36,8 +36,8 @@ LocalFoodWastageManagement/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/LocalFoodWastageManagement.git
-   cd LocalFoodWastageManagement
+   git clone https://github.com/ShivamShashank11/Local-Food-Wastage-Management-System.git
+   cd Local-Food-Wastage-Management-System
    Install dependencies:
    ```
 
